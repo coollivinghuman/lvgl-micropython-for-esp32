@@ -1,2 +1,2 @@
-# lvgl9-micropython-for-cheap-yellow-display
-lvgl9 micropython for esp32 cheap yellow display. i found the binary on the internet
+# lvgl-micropython-esp32
+lvgl micropython for esp32. i compiled the binary file by myself
